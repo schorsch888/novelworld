@@ -19,7 +19,7 @@ tower = { version = "0.5", features = ["full"] }
 tower-http = { version = "0.6", features = ["cors", "trace", "compression-gzip"] }
 
 # gRPC
-tonic = "0.12"
+tonic = "0.14"
 prost = "0.13"
 
 # Database
