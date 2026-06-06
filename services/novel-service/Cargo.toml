@@ -27,7 +27,7 @@ futures.workspace = true
 bytes.workspace = true
 
 # PDF parsing
-pdf-extract = "0.7"
+pdf-extract = "0.10"
 # Text chunking
 tiktoken-rs = "0.6"
 # Chapter splitting regex
