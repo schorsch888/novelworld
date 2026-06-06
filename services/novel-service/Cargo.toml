@@ -29,6 +29,6 @@ bytes.workspace = true
 # PDF parsing
 pdf-extract = "0.7"
 # Text chunking
-tiktoken-rs = "0.6"
+tiktoken-rs = "0.12"
 # Chapter splitting regex
 regex = "1"
