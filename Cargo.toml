@@ -23,7 +23,7 @@ tonic = "0.12"
 prost = "0.13"
 
 # Database
-sqlx = { version = "0.8", features = ["runtime-tokio-rustls", "postgres", "uuid", "chrono", "json"] }
+sqlx = { version = "0.9", features = ["runtime-tokio-rustls", "postgres", "uuid", "chrono", "json"] }
 
 # Serialization
 serde = { version = "1", features = ["derive"] }
