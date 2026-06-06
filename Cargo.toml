@@ -35,7 +35,7 @@ bcrypt = "0.15"
 uuid = { version = "1", features = ["v4", "serde"] }
 
 # HTTP client (for LLM API)
-reqwest = { version = "0.12", features = ["json", "stream"] }
+reqwest = { version = "0.13", features = ["json", "stream"] }
 
 # Redis
 redis = { version = "0.27", features = ["tokio-comp", "connection-manager"] }
