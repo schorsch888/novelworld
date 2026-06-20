@@ -34,7 +34,7 @@
     "react-router-dom": "^6.26.0",
     "remark-gfm": "^4.0.0",
     "sonner": "^2.0.7",
-    "tailwind-merge": "^2.5.2",
+    "tailwind-merge": "^3.6.0",
     "zustand": "^5.0.14"
   },
   "devDependencies": {
