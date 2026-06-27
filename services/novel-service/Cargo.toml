@@ -28,7 +28,7 @@ bytes.workspace = true
 llm-client.workspace = true
 
 # PDF parsing
-pdf-extract = "0.10"
+pdf-extract = "0.12"
 # Text chunking
 tiktoken-rs = "0.12"
 # Chapter splitting regex
